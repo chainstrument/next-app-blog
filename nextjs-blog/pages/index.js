@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          My new title
+          My new title 2
         </h1>
 
         <p className={styles.description}>
